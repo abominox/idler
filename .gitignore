@@ -1,5 +1,16 @@
 # VS Code
 .vscode/
+launch.json
 
 # Built binaries
 *.exe
+
+# Python
+__pycache__/
+env/
+*.pyc
+
+# PyInstaller
+dist/
+*.spec
+build/
